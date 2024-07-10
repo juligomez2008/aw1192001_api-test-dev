@@ -1,11 +1,11 @@
 apiVersion: backstage.io/v1alpha1
-kind: service
+kind: Component
 metadata:
   name: aw1192001_api-test-dev
   annotations:
     github.com/project-slug: juligomez2008/aw1192001_api-test-dev
     appcode: aw1192001
 spec:
-  type: other
+  type: service
   lifecycle: unknown
   owner: guests
