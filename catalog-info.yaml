@@ -4,7 +4,7 @@ metadata:
   name: aw1192001_api-test-dev
   annotations:
     github.com/project-slug: juligomez2008/aw1192001_api-test-dev
-    code: aw1192001
+    appcode: aw1192001
 spec:
   type: other
   lifecycle: unknown
